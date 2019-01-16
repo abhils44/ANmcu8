@@ -1,0 +1,4 @@
+1. ANmcu8 repository is created on Github
+2. ANmcu8 repository is created on Bitbucket
+3. Cloned Bitbucket repository in local machine and added initial contents - "ANmcu8.txt"
+4. Added initial commit with "ANmcu8.txt" to "origin/master"
