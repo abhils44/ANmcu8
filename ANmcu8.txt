@@ -3,3 +3,4 @@
 3. Cloned Bitbucket repository in local machine and added initial contents - "ANmcu8.txt"
 4. Added initial commit with "ANmcu8.txt" to "origin/master"
 5. Added new branch to Bitbucket repository as "develop"
+6. Adding an intermediate commit#1 to develop. And merging the same into origin/master
