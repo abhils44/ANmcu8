@@ -4,3 +4,4 @@
 4. Added initial commit with "ANmcu8.txt" to "origin/master"
 5. Added new branch to Bitbucket repository as "develop"
 6. Adding an intermediate commit#1 to develop. And merging the same into origin/master
+7. Adding an intermediate commit#2 to develop. And merging the same into origin/master
