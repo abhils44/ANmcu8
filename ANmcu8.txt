@@ -8,3 +8,12 @@
 8. Adding an intermediate commit#3 to develop. And merging the same into origin/master
 
 9. abhils44 added new changes to README.md
+
+10. Adding commit#4
+
+11. Retry the entire process.
+12. Adding intermediate commit#5
+13. Adding intermediate commit#6
+
+14. Adding intermediate commit#7
+15. Adding intermediate commit#8
