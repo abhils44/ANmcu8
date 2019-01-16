@@ -14,3 +14,6 @@
 11. Retry the entire process.
 12. Adding intermediate commit#5
 13. Adding intermediate commit#6
+
+14. Adding intermediate commit#7
+15. Adding intermediate commit#8
