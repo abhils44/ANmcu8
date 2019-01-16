@@ -1,0 +1,8 @@
+1. ANmcu8 repository is created on Github
+2. ANmcu8 repository is created on Bitbucket
+3. Cloned Bitbucket repository in local machine and added initial contents - "ANmcu8.txt"
+4. Added initial commit with "ANmcu8.txt" to "origin/master"
+5. Added new branch to Bitbucket repository as "develop"
+6. Adding an intermediate commit#1 to develop. And merging the same into origin/master
+7. Adding an intermediate commit#2 to develop. And merging the same into origin/master
+8. Adding an intermediate commit#3 to develop. And merging the same into origin/master
